@@ -1,5 +1,5 @@
-# YT-YTM-UnGoogled-OTA
-YouTube UnGoogled helps you watch YouTube without  unlimited advertisements and sponsors. YouTube UnGoogled Official YouTube ReVancedX with logical name &amp;  packagename.
+# YT-YTM-ReVancedX-OTA
+YouTube ReVancedX helps you watch YouTube without  unlimited advertisements and sponsors. YouTube ReVancedX Official YouTube ReVancedX with logical name, branding &amp;  packagename.
 
 _Work in Progress..._
 
@@ -102,13 +102,13 @@ Android 15
 
 ReVancedX|Supported|Link
 :----|:----|:----
-YouTube UnGoogled (Pre)|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YT+UnGoogled+prerelease%3Atrue&expanded=true)
-YouTube UnGoogled|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases/latest)
-YouTube UnGoogled A6-7|Android 6~7|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YT+UnGoogled+A6-7&expanded=true)
-YouTube UnGoogled A5|Android 5|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YT+UnGoogled+A5+v16.40.36&expanded=true)
-YT Music UnGoogled|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YTM+UnGoogled&expanded=true)
-YT Music UnGoogled A7|Android 7|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YTM+UnGoogled+A7&expanded=true)
-YT Music UnGoogled A5-6|Android 5~6|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YTM+UnGoogled+A5-6&expanded=true)
+YouTube ReVanced (Pre)|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YT+UnGoogled+prerelease%3Atrue&expanded=true)
+YouTube ReVancedX|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases/latest)
+YouTube ReVancedX A6-7|Android 6~7|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YT+UnGoogled+A6-7&expanded=true)
+YouTube ReVancedX A5|Android 5|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YT+UnGoogled+A5+v16.40.36&expanded=true)
+YT Music ReVancedX|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YTM+UnGoogled&expanded=true)
+YT Music ReVancedX A7|Android 7|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YTM+UnGoogled+A7&expanded=true)
+YT Music ReVancedX A5-6|Android 5~6|[Download](https://github.com/arghya339/YT-YTM-UnGoogled-OTA/releases?q=YTM+UnGoogled+A5-6&expanded=true)
 
 </details></details>
 
