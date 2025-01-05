@@ -1,3 +1,3 @@
-# v5.7.1
+# v5.8.0
 Features
-- YouTube: Support version `19.47.53` ...[more](https://github.com/ReVanced/revanced-patches/releases/tag/v5.7.1)
+- YouTube: Support version `19.47.53` ...[more](https://github.com/ReVanced/revanced-patches/releases/tag/v5.8.0)
