@@ -104,6 +104,7 @@ ReVancedX|Supported|Link
 :----|:----|:----
 YouTube RV (Pre)|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-ReVancedX-OTA/releases?q=YT+RV+prerelease%3Atrue&expanded=false)
 YouTube RVX|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-ReVancedX-OTA/releases/latest)
+YouTube RVE|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-ReVancedX-OTA/releases?q=YT+RVE&expanded=false)
 YouTube RVX A6-7|Android 6~7|[Download](https://github.com/arghya339/YT-YTM-ReVancedX-OTA/releases?q=YT+RVX+A6-7&expanded=false)
 YouTube RVX A5|Android 5|[Download](https://github.com/arghya339/YT-YTM-ReVancedX-OTA/releases?q=YT+RVX+A5+v16.40.36&expanded=false)
 YT Music RVX|Android 8~15|[Download](https://github.com/arghya339/YT-YTM-ReVancedX-OTA/releases?q=YTM+RVX&expanded=false)
